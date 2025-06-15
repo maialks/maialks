@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm maialks
 
-<!--
-**maialks/maialks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student developer passionate about building fullstack web applications!  
+My tech stack includes **JavaScript**, **Node.js**, **HTML**, **CSS**, and **Tailwind CSS**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently learning and experimenting with new fullstack web technologies.
+- 🛠️ I love working on personal projects and collaborating with friends.
+- 💡 I enjoy solving Data Structures and Algorithms (DSA) problems in my free time.
+- 🥋 Off the keyboard, you'll find me practicing **jiujitsu** or hitting the gym for some **powerlifting**.
+
+---
+
+## 🏆 Highlight Project
+
+### 📚 [StudyBot](#)  
+A Discord bot that helps you track your study time based on how long you spend in a study voice channel.  
+> _It's still simple, but I'm planning more improvements!_
+
+---
+
+## 🧰 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)
+
+---
+
+Thanks for visiting my profile!  
+_Always open to learning, building, and connecting with fellow devs._
