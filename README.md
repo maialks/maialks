@@ -1,4 +1,4 @@
-# 👋 Hi, I'm maialks
+# 👋 Hi, I'm Lucas
 
 I'm a student developer passionate about building fullstack web applications!  
 My tech stack includes **JavaScript**, **Node.js**, **HTML**, **CSS**, and **Tailwind CSS**.
